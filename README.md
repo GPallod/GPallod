@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GPallod
+- 👋 Hi, I’m Gaurav Pallod.
 - 👀 I’m interested in Economics, Data Science, and Mathematical Modelling.
 - 🌱 I’m currently learning all three.
 - 📫 How to reach me - gaurav.pallod@duke.edu
